@@ -2368,6 +2368,7 @@ html.no-csstransitions .home-content__main {
     margin-top: 4.8rem;
     max-width: none;
     width: 1600px;
+
 }
 
 .masonry:after {
@@ -3041,9 +3042,10 @@ html.no-csstransitions .home-content__main {
 
 .s-contact {
     background-color: #151515;
-    background-image: url("../images/contact-bg.jpg");
+    background-image: url("https://images.unsplash.com/photo-1557754897-ca12c5049d83?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=60");
     background-repeat: no-repeat;
     background-position: center, center;
+    background-size: cover;
     padding-top: 13.2rem;
     padding-bottom: 12rem;
     color: rgba(255, 255, 255, 0.5);
