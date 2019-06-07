@@ -1,0 +1,23 @@
+{
+  "name": "Hola10",
+  "version": "1.0.0",
+  "description": "==================================================================================================",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djhernandez15/portfolio_.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djhernandez15/portfolio_/issues"
+  },
+  "homepage": "https://davidhernandez15.github.io/portfolio_",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
