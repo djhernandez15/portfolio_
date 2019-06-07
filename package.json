@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/djhernandez15/portfolio_/issues"
   },
-  "homepage": "https://davidhernandez15.github.io/portfolio_",
+  "homepage": "https://djhernandez15.github.io/portfolio_",
   "dependencies": {
     "gh-pages": "^2.0.1"
   }
